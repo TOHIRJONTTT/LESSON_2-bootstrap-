@@ -1,0 +1,13 @@
+
+.navbar_link:hover {
+    background-color: green;
+    padding: 10px 14px;
+    border-radius: 6px;
+}
+
+
+span {
+    max-width: 70px;
+    width: 100%;
+    border: 2px solid black;
+}
